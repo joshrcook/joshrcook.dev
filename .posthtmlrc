@@ -1,0 +1,103 @@
+{
+    "plugins": {
+        "posthtml-include": {},
+        "posthtml-expressions": {
+            "locals": {
+                "experiences": [
+                    {
+                        "title": "Director of Engineering",
+                        "workplace": "Raccord",
+                        "startDate": "Aug 2022",
+                        "endDate": "present",
+                        "location": "New York, NY (Remote)",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Assisted in developing backend API's and a frontend Vue.js-based web application built on AWS cloud infrastructure."
+                        ]
+                    },
+                    {
+                        "title": "Software Engineering Manager",
+                        "workplace": "Passport",
+                        "startDate": "Jun 2021",
+                        "endDate": "Aug 2022",
+                        "location": "Charlotte, NC (Remote)",
+                        "descriptions": [
+                            "As the leader of a full stack team of engineers for Passport’s flagship Parking product, I was responsible for the mobile application API’s and a web client interface that supported over 300k daily transactions and 2.8mm monthly active app users.  This included software delivery, architecture, development lifecycle, production release and product support.",
+                            "Assisted in developing backend API's and a frontend Vue.js-based web application built on AWS cloud infrastructure."
+                        ]
+                    },
+                    {
+                        "title": "Lead Software Engineer",
+                        "workplace": "SESCO Enterprises",
+                        "startDate": "Jun 2020",
+                        "endDate": "Jun 2021",
+                        "location": "Pittsburgh, PA",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Assisted in developing backend API's and a frontend Vue.js-based web application built on AWS cloud infrastructure."
+                        ]
+                    },
+                    {
+                        "title": "Senior Software Engineer",
+                        "workplace": "SnapAV",
+                        "startDate": "Jan 2019",
+                        "endDate": "Jun 2020",
+                        "location": "Charlotte, NC",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Assisted in developing backend API's and a frontend Vue.js-based web application built on AWS cloud infrastructure."
+                        ]
+                    },
+                    {
+                        "title": "Senior Frontend Dveloper",
+                        "workplace": "Red Ventures",
+                        "startDate": "May 2016",
+                        "endDate": "Jan 2019",
+                        "location": "Charlotte, NC",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Managed engineering delivery of the product roadmap, including responsibility for yearly and quarterly initiatives.",
+                            "Collectively managed all aspects of the engineering effort to build new React-based client dashboard for a city’s parking transactions."
+                        ]
+                    },
+                    {
+                        "title": "Lead Developer",
+                        "workplace": "Elevation Church",
+                        "startDate": "Apr 2015",
+                        "endDate": "May 2016",
+                        "location": "Charlotte, NC",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Managed engineering delivery of the product roadmap, including responsibility for yearly and quarterly initiatives.",
+                            "Collectively managed all aspects of the engineering effort to build new React-based client dashboard for a city’s parking transactions."
+                        ]
+                    },
+                    {
+                        "title": "Professional Technologist II",
+                        "workplace": "West Virginia University",
+                        "startDate": "Feb 2014",
+                        "endDate": "Apr 2015",
+                        "location": "Morgantown, WV",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Managed engineering delivery of the product roadmap, including responsibility for yearly and quarterly initiatives.",
+                            "Collectively managed all aspects of the engineering effort to build new React-based client dashboard for a city’s parking transactions."
+                        ]
+                    },
+                    {
+                        "title": "Orthopedic Technician",
+                        "workplace": "US Navy",
+                        "startDate": "Jun 2006",
+                        "endDate": "Jun 2012",
+                        "location": "United States",
+                        "descriptions": [
+                            "As the most senior engineering leader for this PropTech startup, I was responsible for all engineering aspects of the mobile and web application product including data engineering, backend API development, web application development and mobile development. I remotely managed both in-house and contract teams to scale our mobile application, improve ETL processes and redesign our web application.",
+                            "Managed engineering delivery of the product roadmap, including responsibility for yearly and quarterly initiatives.",
+                            "Collectively managed all aspects of the engineering effort to build new React-based client dashboard for a city’s parking transactions."
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

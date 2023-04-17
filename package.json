@@ -1,0 +1,19 @@
+{
+    "name": "joshrcook.dev",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "parcel": "^2.8.3",
+        "postcss": "^8.4.22",
+        "posthtml-expressions": "^1.11.0",
+        "posthtml-include": "^1.7.4",
+        "tailwindcss": "^3.3.1"
+    },
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.14"
+    }
+}
